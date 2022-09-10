@@ -1,0 +1,20 @@
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.conteiner {
+    padding: 2rem;
+}
+
+.col {
+    margin: 1rem;
+}
+
+.carousel-item {
+    text-align: center;
+}
