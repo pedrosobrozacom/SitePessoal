@@ -1,0 +1,46 @@
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+.conteiner {
+    padding: 2rem;
+}
+
+.col {
+    margin: 1rem;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+#rubens {
+    width: 720px;
+    height: auto;
+}
+
+#mustang {
+    width: 720px;
+    height: auto;
+}
+
+#horizon {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: auto;
+    width: 30rem;
+}
+
+.nav-item {
+    margin-inline: 1rem;
+}
+
+#instagram {
+    height: 30px;
+    width: auto;
+}
