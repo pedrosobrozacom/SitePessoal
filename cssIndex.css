@@ -5,6 +5,7 @@ p {
 }
 
 h2 {
+    padding: .5rem;
     text-align: center;
     font-family: 'Righteous', cursive;
 }
