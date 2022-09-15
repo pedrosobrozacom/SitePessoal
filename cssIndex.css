@@ -7,7 +7,7 @@ p {
 h2 {
     padding: .5rem;
     text-align: center;
-    font-family: 'Righteous', cursive;
+    font-family: 'Righteous', cursive; !important
 }
 
 .conteiner {
